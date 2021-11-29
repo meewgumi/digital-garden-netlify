@@ -1,7 +1,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/24827189-b19a-499a-99e2-05d4f60059b0/deploy-status)](https://app.netlify.com/sites/keen-elion-c8ec6b/deploys)
 
 # Digital garden Jekyll template
-
 Use this template repository to get started with your own digital garden.
 
 **I wrote a tutorial explaining how to set it up: [Setting up your own digital garden with Jekyll](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll)**
